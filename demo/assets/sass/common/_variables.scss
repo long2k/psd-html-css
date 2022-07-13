@@ -1,0 +1,22 @@
+$baseDir: '/assets/';
+$font-family-sans-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-famiy-name__base: 'Poppins';
+$font-family__base: $font-famiy-name__base, $font-family-sans-serif;
+
+// color
+
+$color-back: #111;
+$color-white: #fff;
+$color-red: #dd2f31;
+$color-gray: #777;
+$color-text--white: $color-white;
+$color-text--black: #000;
+$color-text--gray: $color-gray;
+$color-header-bacground: rgba(0, 0, 0, 0.6);
+
+// translate
+$translatenX: -50%;
+$translateY: -50%;
+
+$scale: 1;
+$transform: translate(-50%, -50%);

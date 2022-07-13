@@ -1,0 +1,7 @@
+@import './mixin';
+@import './variables';
+
+
+@include font-face($family-name: $font-famiy-name__base, $font-name: 'Poppins-Regular', $font-weight: 400);
+@include font-face($family-name: $font-famiy-name__base, $font-name: 'Poppins-Bold', $font-weight: 700);
+@include font-face($family-name: $font-famiy-name__base, $font-name: 'Poppins-BoldItalic', $font-weight: 700, $font-style: italic);
